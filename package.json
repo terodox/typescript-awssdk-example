@@ -1,0 +1,7 @@
+{
+  "name": "typescript-async-await",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-sdk": "2.9.0"
+  }
+}
